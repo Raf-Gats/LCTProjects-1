@@ -216,7 +216,7 @@ header .navbar {
  @media (max-width: 768px) {
 
   #hamburger-btn, #close-menu-btn {
-    display: none; 
+    display: block; 
 
     #hamburger-btn,
     #close-menu-btn {
